@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-assignment",
+  "version": "1.0.0",
+  "description": "Nodejs Assignment",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SenRecep/nodejs-assignment.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Recep Şen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SenRecep/nodejs-assignment/issues"
+  },
+  "homepage": "https://github.com/SenRecep/nodejs-assignment#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
